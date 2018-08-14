@@ -1,0 +1,8 @@
+theme : night
+theme-override : PITCHME.css
+
+logo : logo.png
+
+transition : fade
+
+footnote : "© 2018 Accelerate HK Coding Bootcamps Limited"
